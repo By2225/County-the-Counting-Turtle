@@ -1,2 +1,2 @@
-# County-the-Counting-Turtle-
+# County-the-Counting-Turtle
 Graphics and Design Final Project
